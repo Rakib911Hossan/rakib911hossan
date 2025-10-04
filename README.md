@@ -35,7 +35,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=plastic&logo=playwright&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/latex-008080?style=plastic&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000?style=plastic&logo=markdown&logoColor=white)
