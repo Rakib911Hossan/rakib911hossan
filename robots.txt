@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Rakib911Hossan.github.io/rakib911hossan/sitemap.xml
+Sitemap: https://Rakib911Hossan.github.io/sitemap.xml
