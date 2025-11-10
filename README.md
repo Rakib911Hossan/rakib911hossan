@@ -7,10 +7,11 @@
 ⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com) and various coding sites
 
 ## 🌐 Socials
-
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-NhjHp8AAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/Rakib911Hossan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakib-hossan-b15115133)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/share/12JUGc54crV/)
+
 
 ## 💻 Tech Stack:
 
