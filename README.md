@@ -4,7 +4,7 @@
 💼 Working at **@pentaglobalsltd**  
 📍 Banani, Dhaka  
 🕒 UTC +06:00  
-👥 Wanna collaborate on Research? ✉️ rakib911hossan@gmail.com
+👥 Wanna collaborate on Research? ✉️ rakib911hossan@gmail.com  
 ⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com) and various coding sites
 
 ## 🌐 Socials
