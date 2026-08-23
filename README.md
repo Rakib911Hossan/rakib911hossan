@@ -2,12 +2,12 @@
 
 Marine Engineer turned ML researcher, working on reasoning, RL, and NLP — with roots in health care and speech-processing applications.
 
-✍️ Writes and 📰 Blogs (very rarely)
-💼 Working at **@pentaglobalsltd**
-📍 Banani, Dhaka
-🕒 UTC +06:00
-👥 Wanna collaborate on research (abductive reasoning / claim verification)? ✉️ rakib911hossan@gmail.com
-⚡ Fun fact: Whenever I am exhausted or burned out, I solve problems on [Leetcode](https://leetcode.com) and various coding sites
+- ✍️ Writes and 📰 blogs (very rarely)
+- 💼 Working at **@pentaglobalsltd**
+- 📍 Banani, Dhaka
+- 🕒 UTC +06:00
+- 👥 Wanna collaborate on research ? ✉️ rakib911hossan@gmail.com
+
 
 ## 🚀 Featured Work
 - **[abductive_claim](https://github.com/Rakib911Hossan/abductive_claim)** — pipeline that synthesizes thesis claims from arXiv papers and validates a dependency graph of evidence-backed sub-claims
